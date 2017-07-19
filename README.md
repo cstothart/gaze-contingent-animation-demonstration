@@ -6,4 +6,4 @@
 
 Requires pygame and pylink.
 
-When you open the file, you will see a blank screen. This is where you calibrate the eye tracker. The animation should load once calibration is complete.
+You should see a blank screen when you open the file. This is where you calibrate the eye tracker. The animation should load once calibration is complete.
