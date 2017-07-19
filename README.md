@@ -1,5 +1,7 @@
 # gaze-contingent-animation-demonstration
 
+The squares turn red when the participant looks at them.
+
 ![Gaze-Contingent Animation Demonstration](/gaze-contingent-animation-demonstration.gif "Gaze Contingent Animation Demonstration")
 
 ### Usage
